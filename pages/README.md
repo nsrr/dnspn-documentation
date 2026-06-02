@@ -102,8 +102,7 @@ When using this dataset, please cite the following:
 
 Please include the following text in the Acknowledgements:
 
-> Users must include the following text in any Acknowledgements:
-The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
+> The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## References
 - Study page on NSRR: Not specified in the provided sources.
