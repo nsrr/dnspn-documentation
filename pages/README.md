@@ -105,10 +105,11 @@ Please include the following text in the Acknowledgements:
 > The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## References
-- Study page on NSRR: Not specified in the provided sources.
-- Additional documentation and data access contact: Boston Children's Hospital Pediatric Sleep Center.
-- Primary publication: [Maski et al., 2024; DOI: 10.1093/sleep/zsae238](https://pubmed.ncbi.nlm.nih.gov/39420719/)
-- NSRR resource citation: [Zhang et al., 2018; DOI: 10.1093/jamia/ocy064](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 - DNSPN NSRR GitHub Data Dictionary: https://github.com/nsrr/dnspn-data-dictionary
 - DNSPN NSRR GitHub Documentation: https://github.com/nsrr/dnspn-documentation
+- Primary publication: [Maski et al., 2024; DOI: 10.1093/sleep/zsae238](https://pubmed.ncbi.nlm.nih.gov/39420719/)
+- NSRR resource citation: [Zhang et al., 2018; DOI: 10.1093/jamia/ocy064](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+- Additional documentation and data access contact: Boston Children's Hospital Pediatric Sleep Center.
+
+
 
