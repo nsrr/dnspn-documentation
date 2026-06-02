@@ -90,10 +90,10 @@ Not specified in the provided sources.
 - Actigraphy collected for 7–10 days prior to polysomnography, including the PSG night, enabling cross-reference of habitual sleep patterns.
 - Detailed alignment methods not specified.
 
-## Access and usage considerations
+## Access and usage restrictions
 The dataset is available for non-commercial use only.
 
-## Citation and acknowledgement
+## Citation and acknowledgements
 When using this dataset, please cite the following:
 
 > [Maski K, Heckler G, Worhach J, Mylonas D, Wang G, Szilagyi K, Zhang B, Diniz Behn C, Scammell TE, Stickgold R. Impaired Sleep-Dependent Memory Consolidation in Pediatric Narcolepsy Type 1. Sleep. 2024 Oct 18:zsae238. doi: 10.1093/sleep/zsae238. Epub ahead of print. PMID: 39420719.](https://pubmed.ncbi.nlm.nih.gov/39420719/)
