@@ -9,7 +9,7 @@ The primary outcomes were measures of sleep-dependent declarative memory consoli
 ## Methods
 All participants had an in-lab overnight PSG at the Pediatric Sleep Laboratory at Boston Children’s Hospital.  Prior to their PSG, participants and their parents were sent surveys and were mailed an Actiwatch to wear for 7-10 days prior to the study to measure sleep wake activity.  Remote neurocognitive testing was done via video conferencing to assess baseline verbal and nonverbal intelligence quotient scores either 1 week before or after the overnight sleep study. 
 
-### PSG Clinic Visit/Data Collection
+### PSG clinic visit/data collection
 Additional data collected on the night of the full lab PSG at Boston Children’s Pediatric Sleep Laboratory included:
 - 3-minute psychomotor vigilance task (PVT).
 - A spatial declarative memory task before habitual bedtime.
@@ -17,14 +17,14 @@ Additional data collected on the night of the full lab PSG at Boston Children’
 - Subgroup completed alternate declarative memory task in morning to assess circadian influences.
 - Urine drug screening to confirm drug-free status.
 
-### Polysomnography (PSG) Collection
+### Polysomnography (PSG) collection
 - Equipment: XLTEK® PSG system with Natus SleepWorks software (Natus Medical Inc.).
 - Montage included nine EEG leads (F3, F4, T3, T4, C3, Cz, C4, O1, O2), bilateral EOG, chin EMG, ECG, airflow sensors, respiratory belts, pulse oximetry, and leg EMG.
 - Signals sampled at 200 Hz.
 - PSG was conducted in-lab with registered sleep technicians following American Academy of Sleep Medicine (AASM) 2007 scoring guidelines.
 - Lights-out/on times recorded by technician and annotated.
 
-### Polysomnography Scoring
+### Polysomnography scoring
 - Manual scoring by certified technologists blinded to other data.
 - Sleep staged per AASM 2007 pediatric criteria in 30-second epochs (Wake=0, N1=1, N2=2, N3=3–4, REM=5).
 - Respiratory events scored as follows:
@@ -36,20 +36,20 @@ Additional data collected on the night of the full lab PSG at Boston Children’
 - Sleep quality assessed per channel; artifacts and study quality documented.
 - Spindle detection performed automatically on artifact-free N2 sleep epochs over central electrodes using wavelet-based algorithm for 12–15 Hz band.
 
-### Actigraphy Collection
+### Actigraphy collection
 - Participants wore Actiwatch-L wrist actigraph for 7–10 days prior to study night to verify habitual sleep duration ≥7 hours.
 - Movement data recorded and scored via validated algorithms.
 - Sleep diaries complemented actigraphy to assist sleep period determination.
 
-### Actigraphy Scoring
+### Actigraphy scoring
 - Sleep periods marked manually using event markers, sleep diaries, light levels, and activity counts.
 - Automatic classification of sleep/wake for 30-second epochs using Actiware-Sleep software.
 - Summary metrics generated included total sleep time, sleep efficiency, awakenings count and duration.
 - Minimum 7 days with valid data required.
 
-## Data Overview
+## Data overview
 
-### Covariate/Phenotype Datasets (CSV)
+### Covariate/phenotype datasets (CSV)
 - Demographic and clinical data include age, sex, race, SSRI use.
 - PSG measures: total sleep time, sleep efficiency, latencies, percentages of NREM stages (N1, N2, N3) and REM, arousal index, number of wakings.
 - MSLT outcomes: number of naps, mean sleep latency, number of SOREMPs.
@@ -74,7 +74,7 @@ The harmonized dataset contains many of the most frequently used demographic and
 
 
 
-### PSG Signal and Annotation Files (EDF/XML)
+### PSG signal and annotation files (EDF/XML)
 - Raw PSG data recorded with XLTEK PSG system; signals sampled at 200 Hz.
 - Data available in EDF format.
 - Annotations scored manually per AASM 2007 pediatric criteria.
@@ -83,17 +83,17 @@ The harmonized dataset contains many of the most frequently used demographic and
 - Events use standardized tags; "unsure" tags not specified.
 - Detailed spindle and slow oscillation-spindle coupling characteristics derived from central EEG leads.
 
-### Actigraphy Signal and Annotation Files
+### Actigraphy signal and annotation files
 Not specified in the provided sources.
 
-### Actigraphy and Polysomnography Overlap
+### Actigraphy and polysomnography overlap
 - Actigraphy collected for 7–10 days prior to polysomnography, including the PSG night, enabling cross-reference of habitual sleep patterns.
 - Detailed alignment methods not specified.
 
-## Access and Usage Considerations
+## Access and usage considerations
 The dataset is available for non-commercial use only.
 
-## Citation and Acknowledgement
+## Citation and acknowledgement
 When using this dataset, please cite the following:
 
 > [Maski K, Heckler G, Worhach J, Mylonas D, Wang G, Szilagyi K, Zhang B, Diniz Behn C, Scammell TE, Stickgold R. Impaired Sleep-Dependent Memory Consolidation in Pediatric Narcolepsy Type 1. Sleep. 2024 Oct 18:zsae238. doi: 10.1093/sleep/zsae238. Epub ahead of print. PMID: 39420719.](https://pubmed.ncbi.nlm.nih.gov/39420719/)
