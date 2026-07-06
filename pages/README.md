@@ -71,8 +71,7 @@ The harmonized dataset contains many of the most frequently used demographic and
 - Annotations scored manually per AASM 2007 pediatric criteria.
 - Scored events include sleep stages, apneas, hypopneas, arousals.
 - Lights-out/on annotated by technician.
-- Events use standardized tags; "unsure" tags not specified.
-- Detailed spindle and slow oscillation-spindle coupling characteristics derived from central EEG leads.
+- [Original](:files_path:/original) and [NSRR-harmonized files](:files_path:/harmonized) available ([read about the NSRR harmonization process](https://gitlab-scm.partners.org/zzz-public/nsrr/-/tree/master/studies?ref_type=heads))
 
 ## Access and usage restrictions
 The dataset is available for non-commercial use only.
