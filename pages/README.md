@@ -74,7 +74,7 @@ The [harmonized dataset](:files_path:/datasets) contains many of the most freque
 - [Original](:files_path:/original) and [NSRR-harmonized files](:files_path:/harmonized) available ([read about the NSRR harmonization process](https://gitlab-scm.partners.org/zzz-public/nsrr/-/tree/master/studies?ref_type=heads))
 
 ## Access and usage restrictions
-The dataset is available for non-commercial use only.
+The DNSPN dataset is available for non-commercial use only.
 
 ## Citation and acknowledgements
 When using this dataset, please cite the following:
