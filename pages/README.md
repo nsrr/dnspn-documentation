@@ -48,7 +48,7 @@ All personally identifiable information (PII) was removed from the data files by
 - MSLT outcomes: number of naps, mean sleep latency, number of SOREMPs.
 - Unique subject identifiers enable linkage across data types.
 
-The harmonized dataset contains many of the most frequently used demographic and sleep variables.  These variables were curated by the NSRR team.  Key variables include:
+The [harmonized dataset](:files_path:/datasets) contains many of the most frequently used demographic and sleep variables.  These variables were curated by the NSRR team.  Key variables include:
 - **nsrr_ahi_hp3r_aasm07** - Apnea-Hypopnea Index: (All apneas + hypopneas with >=50% nasal cannula [or alternative sensor] reduction and >= 3% oxygen desaturation or with arousal) / hour of sleep
 - **nsrr_phrnumar_f1** – Arousal Index: Number of arousals per hour of sleep from polysomnography
 - **nsrr_pctdursp_s1** – percentage of total sleep duration (i.e., total sleep time, TST) in stage 1 from polysomnography
