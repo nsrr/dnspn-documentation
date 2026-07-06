@@ -36,16 +36,9 @@ Additional data collected on the night of the full lab PSG at Boston Children’
 - Sleep quality assessed per channel; artifacts and study quality documented.
 - Spindle detection performed automatically on artifact-free N2 sleep epochs over central electrodes using wavelet-based algorithm for 12–15 Hz band.
 
-### Actigraphy collection
-- Participants wore Actiwatch-L wrist actigraph for 7–10 days prior to study night to verify habitual sleep duration ≥7 hours.
-- Movement data recorded and scored via validated algorithms.
-- Sleep diaries complemented actigraphy to assist sleep period determination.
+## Data de-identification
 
-### Actigraphy scoring
-- Sleep periods marked manually using event markers, sleep diaries, light levels, and activity counts.
-- Automatic classification of sleep/wake for 30-second epochs using Actiware-Sleep software.
-- Summary metrics generated included total sleep time, sleep efficiency, awakenings count and duration.
-- Minimum 7 days with valid data required.
+All personally identifiable information (PII) was removed from the data files by the NSRR team.
 
 ## Data overview
 
@@ -72,8 +65,6 @@ The harmonized dataset contains many of the most frequently used demographic and
 - **nsrr_race** – subject race
 - **nsrr_sex** – subject sex
 
-
-
 ### PSG signal and annotation files (EDF/XML)
 - Raw PSG data recorded with XLTEK PSG system; signals sampled at 200 Hz.
 - Data available in EDF format.
@@ -82,13 +73,6 @@ The harmonized dataset contains many of the most frequently used demographic and
 - Lights-out/on annotated by technician.
 - Events use standardized tags; "unsure" tags not specified.
 - Detailed spindle and slow oscillation-spindle coupling characteristics derived from central EEG leads.
-
-### Actigraphy signal and annotation files
-Not specified in the provided sources.
-
-### Actigraphy and polysomnography overlap
-- Actigraphy collected for 7–10 days prior to polysomnography, including the PSG night, enabling cross-reference of habitual sleep patterns.
-- Detailed alignment methods not specified.
 
 ## Access and usage restrictions
 The dataset is available for non-commercial use only.
@@ -110,6 +94,3 @@ Please include the following text in the Acknowledgements:
 - Primary publication: [Maski et al., 2024; DOI: 10.1093/sleep/zsae238](https://pubmed.ncbi.nlm.nih.gov/39420719/)
 - NSRR resource citation: [Zhang et al., 2018; DOI: 10.1093/jamia/ocy064](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 - Additional documentation and data access contact: Boston Children's Hospital Pediatric Sleep Center.
-
-
-
