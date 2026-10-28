@@ -80,7 +80,7 @@ The DNSPN dataset is available for non-commercial use only.
 When using this dataset, please cite the following:
 
 > [Maski K, Heckler G, Worhach J, Mylonas D, Wang G, Szilagyi K, Zhang B, Diniz Behn C, Scammell TE, Stickgold R. Impaired Sleep-Dependent Memory Consolidation in Pediatric Narcolepsy Type 1. Sleep. 2024 Oct 18:zsae238. doi: 10.1093/sleep/zsae238. Epub ahead of print. PMID: 39420719.](https://pubmed.ncbi.nlm.nih.gov/39420719/)
-
+> 
 > [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 
 Please include the following text in the Acknowledgements:
