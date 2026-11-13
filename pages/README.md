@@ -85,7 +85,7 @@ When using this dataset, please cite the following:
 
 Please include the following text in the Acknowledgements:
 
-> The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
+> The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002, 75N92025R00007).
 
 ## References
 - DNSPN NSRR GitHub Data Dictionary: https://github.com/nsrr/dnspn-data-dictionary
